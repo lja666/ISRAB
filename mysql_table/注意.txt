@@ -1,0 +1,1 @@
+为保证MySQL数据库与后端Springboot+Mybatis接口正常协作，建议数据库命名为shm
